@@ -1,7 +1,5 @@
 package Sorting;
 
-import java.util.Arrays;
-
 public class MergeSort {
     public static void main(String args[]){
 
@@ -19,7 +17,7 @@ public class MergeSort {
 
     
     }
-
+    // Merge sort method
     private static void mergeSort(int[] array){
 
         int length = array.length;
